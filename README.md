@@ -1,8 +1,6 @@
-# Writing
-record and sumarize my thinkings and some notes of writing courses
+
  
 # `The Art of Acedemic writing`
-
 ## Three mistakes:
 
 * Simply Think about in one sentence: What are your work about？ your position
@@ -19,11 +17,11 @@ record and sumarize my thinkings and some notes of writing courses
 	
 ## Don't over critic your work. Be confidence
 
-
-***
-# Core story telling
+## Core story telling
 	
-* 	catch the editor's attention
-* 	同领域-交叉领域-外行 如何看待我的工作
+* catch the editor's attention
+* 同领域-交叉领域-外行 如何看待我的工作
 
-
+## Week 1: why and where
+### choose a conversition
+### choose a location
