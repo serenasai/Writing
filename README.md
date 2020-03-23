@@ -23,5 +23,5 @@
 * 同领域-交叉领域-外行 如何看待我的工作
 
 ## Week 1: why and where
-[### choose a conversition](https://github.com/serenasai/Writing/blob/master/choose%20a%20conversition.md)
+###[choose a conversition](https://github.com/serenasai/Writing/blob/master/choose%20a%20conversition.md)
 ### choose a location
