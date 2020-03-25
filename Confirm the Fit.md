@@ -1,4 +1,4 @@
-# Choose a level 找到你在圈子中的位置
+# Confirm the Fit
 
 原文：
 
