@@ -28,4 +28,12 @@ Here are some criteria you can use to select an article:<br>
 ## 我的作业：
 * Nature Electronics xiaoyangLin + Julie
 * NSR Nat.commu. 暂时无 review paper model
+* additional reading:[How Your Journal Editor Works](https://www.chronicle.com/article/How-Your-Journal-Editor-Works/236911)
+
+** 学到的点：可以询问编辑他们的想法和观点，在你提交论文之前；论文接收以后要感谢编辑！！告诉他你怎么推广你的论文
+> What’s even more rare is being thanked for our labors. Were you grateful for some feedback on a piece of work you submitted?<br>
+Editors helped get you that feedback and might someday report your gratitude to anonymous reviewers. It’s always OK to offer brief,<br>
+gracious thanks to journal editors when it’s warranted. Was your essay published, and do you like how it looks? Thank the editors. <br>
+Better yet, help us promote your article and our journal, and then show (or tell) us how you did so. <br>
+Read the rest of the contents surrounding yours. Report how happy you are to be in that fine company, and why.
   
