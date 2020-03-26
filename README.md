@@ -23,5 +23,10 @@
 * 同领域-交叉领域-外行 如何看待我的工作
 
 ## Week 1: why and where
-### [choose a conversition](https://github.com/serenasai/Writing/blob/master/choose%20a%20conversition.md)
-### choose a location
+
+### [1.1choose a conversition](https://github.com/serenasai/Writing/blob/master/choose%20a%20conversition.md)
+### [1.2choose a location](https://github.com/serenasai/Writing/blob/master/choose%20a%20location.md)
+### [1.3choose a level](https://github.com/serenasai/Writing/blob/master/choose%20a%20level.md)
+### [1.4Confirm the Fit](https://github.com/serenasai/Writing/blob/master/Confirm%20the%20Fit.md)
+### [1.5Know the Voice](https://github.com/serenasai/Writing/blob/master/Know%20the%20Voice.md)
+## Week 2: Why You and Why Now
