@@ -24,9 +24,14 @@
 
 ## Week 1: why and where
 
-### [1.1choose a conversition](https://github.com/serenasai/Writing/blob/master/choose%20a%20conversition.md)
-### [1.2choose a location](https://github.com/serenasai/Writing/blob/master/choose%20a%20location.md)
-### [1.3choose a level](https://github.com/serenasai/Writing/blob/master/choose%20a%20level.md)
-### [1.4Confirm the Fit](https://github.com/serenasai/Writing/blob/master/Confirm%20the%20Fit.md)
-### [1.5Know the Voice](https://github.com/serenasai/Writing/blob/master/Know%20the%20Voice.md)
+### [1.1 choose a conversition](https://github.com/serenasai/Writing/blob/master/choose%20a%20conversition.md)
+### [1.2 choose a location](https://github.com/serenasai/Writing/blob/master/choose%20a%20location.md)
+### [1.3 choose a level](https://github.com/serenasai/Writing/blob/master/choose%20a%20level.md)
+### [1.4 Confirm the Fit](https://github.com/serenasai/Writing/blob/master/Confirm%20the%20Fit.md)
+### [1.5 Know the Voice](https://github.com/serenasai/Writing/blob/master/Know%20the%20Voice.md)
 ## Week 2: Why You and Why Now
+### [2.1 choose a conversition](https://github.com/serenasai/Writing/blob/master/2.1:%20Make%20a%20Claim.md)
+### [2.2 choose a location](https://github.com/serenasai/Writing/blob/master/2.2Explain%20Your%20Rationale.md)
+### [2.3 choose a level](https://github.com/serenasai/Writing/blob/master/2.3%20Name%20the%20Gap.md)
+### [2.4 Confirm the Fit](https://github.com/serenasai/Writing/blob/master/2.4%20Explain%20Your%20Contribution.md)
+### [2.5 So What](https://github.com/serenasai/Writing/blob/master/2.5%20So%20What.md)
